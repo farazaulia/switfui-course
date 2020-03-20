@@ -9,12 +9,12 @@
 /* Begin PBXBuildFile section */
 		85167F1D2424CB0100FDB90C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85167F1C2424CB0100FDB90C /* AppDelegate.swift */; };
 		85167F1F2424CB0100FDB90C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85167F1E2424CB0100FDB90C /* SceneDelegate.swift */; };
-		85167F212424CB0100FDB90C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85167F202424CB0100FDB90C /* ContentView.swift */; };
 		85167F232424CB0600FDB90C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85167F222424CB0600FDB90C /* Assets.xcassets */; };
 		85167F262424CB0600FDB90C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85167F252424CB0600FDB90C /* Preview Assets.xcassets */; };
 		85167F292424CB0600FDB90C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85167F272424CB0600FDB90C /* LaunchScreen.storyboard */; };
 		85167F342424CB0600FDB90C /* DesignCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85167F332424CB0600FDB90C /* DesignCodeTests.swift */; };
 		85167F3F2424CB0600FDB90C /* DesignCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85167F3E2424CB0600FDB90C /* DesignCodeUITests.swift */; };
+		85167F4F2424E8ED00FDB90C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85167F202424CB0100FDB90C /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -269,7 +269,7 @@
 			files = (
 				85167F1D2424CB0100FDB90C /* AppDelegate.swift in Sources */,
 				85167F1F2424CB0100FDB90C /* SceneDelegate.swift in Sources */,
-				85167F212424CB0100FDB90C /* ContentView.swift in Sources */,
+				85167F4F2424E8ED00FDB90C /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
