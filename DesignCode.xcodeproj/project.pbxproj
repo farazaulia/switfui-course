@@ -17,6 +17,7 @@
 		85167F4F2424E8ED00FDB90C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85167F202424CB0100FDB90C /* ContentView.swift */; };
 		85E199882425A20F008CBFD1 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E199872425A20F008CBFD1 /* MenuView.swift */; };
 		85E1998A2425A979008CBFD1 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E199892425A979008CBFD1 /* Home.swift */; };
+		85E1998C2425B05D008CBFD1 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E1998B2425B05D008CBFD1 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		85167F402424CB0600FDB90C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		85E199872425A20F008CBFD1 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		85E199892425A979008CBFD1 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		85E1998B2425B05D008CBFD1 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				85167F1E2424CB0100FDB90C /* SceneDelegate.swift */,
 				85167F202424CB0100FDB90C /* ContentView.swift */,
 				85E199892425A979008CBFD1 /* Home.swift */,
+				85E1998B2425B05D008CBFD1 /* HomeView.swift */,
 				85E199872425A20F008CBFD1 /* MenuView.swift */,
 				85167F222424CB0600FDB90C /* Assets.xcassets */,
 				85167F272424CB0600FDB90C /* LaunchScreen.storyboard */,
@@ -276,6 +279,7 @@
 				85167F1D2424CB0100FDB90C /* AppDelegate.swift in Sources */,
 				85E199882425A20F008CBFD1 /* MenuView.swift in Sources */,
 				85E1998A2425A979008CBFD1 /* Home.swift in Sources */,
+				85E1998C2425B05D008CBFD1 /* HomeView.swift in Sources */,
 				85167F1F2424CB0100FDB90C /* SceneDelegate.swift in Sources */,
 				85167F4F2424E8ED00FDB90C /* ContentView.swift in Sources */,
 			);
