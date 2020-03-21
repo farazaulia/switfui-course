@@ -25,8 +25,8 @@ struct ContentView: View {
                     Animation
                         .default
                         .delay(0.1)
-//                          .speed(2)
-//                          .repeatForever()
+                    //                          .speed(2)
+                    //                          .repeatForever()
             )
             
             BackCardView()
@@ -62,7 +62,7 @@ struct ContentView: View {
             CardView()
                 .frame(width: showCard ? 375 : 340, height: 220)
                 .background(Color.black)
-//                .cornerRadius(20)
+                //                .cornerRadius(20)
                 .clipShape(RoundedRectangle(cornerRadius: showCard ? 30 : 20, style: .continuous))
                 .shadow(radius: 20)
                 .offset(x: viewState.width, y: viewState.height)
